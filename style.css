@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f6ff;
+  margin: 0;
+  padding: 0;
+}
+header, footer {
+  background: #002366;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+section {
+  padding: 20px;
+}
+.btn {
+  display: inline-block;
+  background-color: #0044cc;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
